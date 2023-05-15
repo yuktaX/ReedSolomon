@@ -3,3 +3,5 @@ Implementation of the Integer version of the Reed-Solomon Error Correcting code,
 
 The following is the link to the colab:
 https://colab.research.google.com/drive/1-BQBvDqG1BB_0RyGgQvK4tb7uv2btj8s?usp=sharing
+
+Instructions to run the notebook are written in the second cell.
